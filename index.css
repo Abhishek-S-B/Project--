@@ -1,0 +1,40 @@
+
+ul.navbar-nav a:hover { 
+	color: black !important; 
+}
+ul.navbar-nav a:active { 
+	color:black !important; 
+}
+.card{
+	max-width: 55vw;
+}
+
+@media screen and (max-width:768px){
+	.card{	
+	max-width:85vw;
+	}
+}
+
+.card-title{
+	color: black;
+	font-size: 25px;
+	font-family: "Helvetica";
+	font-weight: 500;
+}
+.menu-area{
+	position: static;
+}
+.mega-area{
+	position: absolute;
+	width: 99%;
+	padding: 10px;
+}
+
+
+.card-text{
+	font-size: 16px;
+	color:black;
+}
+.card-body{
+	background-color: #B4ADAD;
+}

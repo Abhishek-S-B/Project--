@@ -1,0 +1,14 @@
+ul.navbar-nav a:hover { 
+	color: black !important; 
+}
+ul.navbar-nav a:active { 
+	color:black !important; 
+}
+.menu-area{
+	position: static;
+}
+.mega-area{
+	position: absolute;
+	width: 99%;
+	padding: 10px;
+}
